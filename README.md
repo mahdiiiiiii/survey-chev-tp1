@@ -1,4 +1,3 @@
-# survey-chev-tp1
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -18,16 +17,11 @@
       font-weight: 500;
       color: #333;
     }
-    p {
-      font-size: 17px;
-      line-height: 1.6;
-    }
   </style>
 </head>
 <body>
 
   <h1>Merci d'avoir répondu à notre sondage !</h1>
-  <p>Votre avis compte beaucoup pour nous.</p>
 
   <script>
   !function(f,b,e,v,n,t,s)
